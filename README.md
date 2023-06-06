@@ -61,7 +61,7 @@ The total price is calculated by: Total Retail = (Units) * (Product Price) <br /
 We also calculate the Profit by: Profit = Total Retail - Total Cost <br />
 
 # Data Analysis:
-Considering the questions that we are required to answer, We create an interactive dashboard for analyzing the sales and inventory data.
+Considering the questions that we are required to answer, We create an interactive dashboard for analyzing the sales and inventory data. The user is given options to analyze the data related to a particular store, city, product or timeline. This helps him/her to get a comprehensive report of the performance of the company.
 
 ### Sales Analysis Dashboard
 ![Sales Dashboard](https://github.com/Pr0-C0der/Toys-Sales-Analysis-Using-Power-BI-/assets/93116210/c1785a3c-3f36-4de5-85e5-c80911fbcd5f)
